@@ -13,9 +13,3 @@ data class ApiResponse (
     @SerializedName("status_verbose")
     val statusVerbose: String
 )
-
-//data class Products(
-//    val code:ProductCode?,
-//    val product_name:ProductName?,
-//    val image_url:ProductPic?
-//)
